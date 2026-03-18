@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "790557394932",
+    "project_id": "wordpress-f63ea",
+    "storage_bucket": "wordpress-f63ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790557394932:android:bc1cc5506c8495da9ddba1",
+        "android_client_info": {
+          "package_name": "com.example.school_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFqf-sNjFVzWCYw2L8SaFU7fr_hf564aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790557394932:android:9ea9d9613dd3244b9ddba1",
+        "android_client_info": {
+          "package_name": "com.hr_manager_wordpress.hr_manager_wordpress"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFqf-sNjFVzWCYw2L8SaFU7fr_hf564aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
