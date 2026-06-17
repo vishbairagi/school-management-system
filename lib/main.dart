@@ -36,7 +36,7 @@ Future<void> setupFCM() async {
 
   // ✅ Token refresh listener
   FirebaseMessaging.instance.onTokenRefresh.listen((newToken) {
-    print("🔄 NEW TOKEN: $newToken");
+    print("🔄 NEW ToKEN : $newToken");
   });
 }
 
